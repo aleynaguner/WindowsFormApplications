@@ -1,0 +1,22 @@
+C:\Users\asus\Desktop\C# Kurs\1811_odev1\1811_odev1\bin\Debug\1811_odev1.exe
+C:\Users\asus\Desktop\C# Kurs\1811_odev1\1811_odev1\bin\Debug\1811_odev1.pdb
+C:\Users\asus\Desktop\C# Kurs\1811_odev1\1811_odev1\obj\Debug\1811_odev1.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\C# Kurs\1811_odev1\1811_odev1\obj\Debug\_1811_odev1.Form1.resources
+C:\Users\asus\Desktop\C# Kurs\1811_odev1\1811_odev1\obj\Debug\_1811_odev1.Properties.Resources.resources
+C:\Users\asus\Desktop\C# Kurs\1811_odev1\1811_odev1\obj\Debug\1811_odev1.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\C# Kurs\1811_odev1\1811_odev1\obj\Debug\1811_odev1.exe
+C:\Users\asus\Desktop\C# Kurs\1811_odev1\1811_odev1\obj\Debug\1811_odev1.pdb
+C:\Users\asus\Desktop\C# Kurs\1811_odev1 Aleyna Güner\1811_odev1\obj\Debug\1811_odev1.exe
+C:\Users\asus\Desktop\C# Kurs\1811_odev1 Aleyna Güner\1811_odev1\obj\Debug\1811_odev1.pdb
+C:\Users\asus\Desktop\C# Kurs\1811_odev1 Aleyna Güner\1811_odev1\bin\Debug\1811_odev1.exe
+C:\Users\asus\Desktop\C# Kurs\1811_odev1 Aleyna Güner\1811_odev1\bin\Debug\1811_odev1.pdb
+C:\Users\asus\Desktop\C# Kurs\1811_odev1 Aleyna Güner\1811_odev1\obj\Debug\1811_odev1.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\C# Kurs\1811_odev1 Aleyna Güner\1811_odev1\obj\Debug\_1811_odev1.Form1.resources
+C:\Users\asus\Desktop\C# Kurs\1811_odev1 Aleyna Güner\1811_odev1\obj\Debug\_1811_odev1.Properties.Resources.resources
+C:\Users\asus\Desktop\C# Kurs\1811_odev1 Aleyna Güner\1811_odev1\obj\Debug\1811_odev1.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\ALEYNA\CODE\C#\C# Kurs\1.Ay\1811_odev1\1811_odev1\obj\Debug\1811_odev1.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\ALEYNA\CODE\C#\C# Kurs\1.Ay\1811_odev1\1811_odev1\obj\Debug\_1811_odev1.Form1.resources
+C:\Users\ASUS\Desktop\ALEYNA\CODE\C#\C# Kurs\1.Ay\1811_odev1\1811_odev1\obj\Debug\_1811_odev1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ALEYNA\CODE\C#\C# Kurs\1.Ay\1811_odev1\1811_odev1\obj\Debug\1811_odev1.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\ALEYNA\CODE\C#\C# Kurs\1.Ay\1811_odev1\1811_odev1\obj\Debug\1811_odev1.exe
+C:\Users\ASUS\Desktop\ALEYNA\CODE\C#\C# Kurs\1.Ay\1811_odev1\1811_odev1\obj\Debug\1811_odev1.pdb
