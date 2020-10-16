@@ -1,0 +1,16 @@
+C:\Users\asus\Desktop\C# Kurs\İlk\İlk\bin\Debug\İlk.exe
+C:\Users\asus\Desktop\C# Kurs\İlk\İlk\bin\Debug\İlk.pdb
+C:\Users\asus\Desktop\C# Kurs\İlk\İlk\obj\Debug\İlk.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\C# Kurs\İlk\İlk\obj\Debug\İlk.Form1.resources
+C:\Users\asus\Desktop\C# Kurs\İlk\İlk\obj\Debug\İlk.Properties.Resources.resources
+C:\Users\asus\Desktop\C# Kurs\İlk\İlk\obj\Debug\İlk.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\C# Kurs\İlk\İlk\obj\Debug\İlk.exe
+C:\Users\asus\Desktop\C# Kurs\İlk\İlk\obj\Debug\İlk.pdb
+C:\Users\asus\Desktop\C#\C# Kurs\1.Ay\0411__İlk\İlk\obj\Debug\İlk.exe
+C:\Users\asus\Desktop\C#\C# Kurs\1.Ay\0411__İlk\İlk\obj\Debug\İlk.pdb
+C:\Users\asus\Desktop\C#\C# Kurs\1.Ay\0411__İlk\İlk\bin\Debug\İlk.exe
+C:\Users\asus\Desktop\C#\C# Kurs\1.Ay\0411__İlk\İlk\bin\Debug\İlk.pdb
+C:\Users\asus\Desktop\C#\C# Kurs\1.Ay\0411__İlk\İlk\obj\Debug\İlk.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\C#\C# Kurs\1.Ay\0411__İlk\İlk\obj\Debug\İlk.Form1.resources
+C:\Users\asus\Desktop\C#\C# Kurs\1.Ay\0411__İlk\İlk\obj\Debug\İlk.Properties.Resources.resources
+C:\Users\asus\Desktop\C#\C# Kurs\1.Ay\0411__İlk\İlk\obj\Debug\İlk.csproj.GenerateResource.Cache

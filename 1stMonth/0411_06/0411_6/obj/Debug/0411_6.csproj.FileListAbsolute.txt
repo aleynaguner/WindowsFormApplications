@@ -1,0 +1,7 @@
+C:\Users\asus\Desktop\C#\C# Kurs\1.Ay\0411_06\0411_6\bin\Debug\0411_6.exe
+C:\Users\asus\Desktop\C#\C# Kurs\1.Ay\0411_06\0411_6\bin\Debug\0411_6.pdb
+C:\Users\asus\Desktop\C#\C# Kurs\1.Ay\0411_06\0411_6\obj\Debug\_0411_6.Form1.resources
+C:\Users\asus\Desktop\C#\C# Kurs\1.Ay\0411_06\0411_6\obj\Debug\_0411_6.Properties.Resources.resources
+C:\Users\asus\Desktop\C#\C# Kurs\1.Ay\0411_06\0411_6\obj\Debug\0411_6.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\C#\C# Kurs\1.Ay\0411_06\0411_6\obj\Debug\0411_6.exe
+C:\Users\asus\Desktop\C#\C# Kurs\1.Ay\0411_06\0411_6\obj\Debug\0411_6.pdb
