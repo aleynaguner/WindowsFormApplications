@@ -1,0 +1,16 @@
+C:\Users\asus\Desktop\C# Kurs\1811_08\1811_08\bin\Debug\1811_08.exe
+C:\Users\asus\Desktop\C# Kurs\1811_08\1811_08\bin\Debug\1811_08.pdb
+C:\Users\asus\Desktop\C# Kurs\1811_08\1811_08\obj\Debug\_1811_08.Form1.resources
+C:\Users\asus\Desktop\C# Kurs\1811_08\1811_08\obj\Debug\_1811_08.Properties.Resources.resources
+C:\Users\asus\Desktop\C# Kurs\1811_08\1811_08\obj\Debug\1811_08.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\C# Kurs\1811_08\1811_08\obj\Debug\1811_08.exe
+C:\Users\asus\Desktop\C# Kurs\1811_08\1811_08\obj\Debug\1811_08.pdb
+C:\Users\asus\Desktop\C# Kurs\1.Ay\1811_08\1811_08\obj\Debug\1811_08.exe
+C:\Users\asus\Desktop\C# Kurs\1.Ay\1811_08\1811_08\obj\Debug\1811_08.pdb
+C:\Users\asus\Desktop\C#\C# Kurs\1.Ay\1811_08\1811_08\obj\Debug\1811_08.exe
+C:\Users\asus\Desktop\C#\C# Kurs\1.Ay\1811_08\1811_08\obj\Debug\1811_08.pdb
+C:\Users\asus\Desktop\C#\C# Kurs\1.Ay\1811_08\1811_08\bin\Debug\1811_08.exe
+C:\Users\asus\Desktop\C#\C# Kurs\1.Ay\1811_08\1811_08\bin\Debug\1811_08.pdb
+C:\Users\asus\Desktop\C#\C# Kurs\1.Ay\1811_08\1811_08\obj\Debug\_1811_08.Form1.resources
+C:\Users\asus\Desktop\C#\C# Kurs\1.Ay\1811_08\1811_08\obj\Debug\_1811_08.Properties.Resources.resources
+C:\Users\asus\Desktop\C#\C# Kurs\1.Ay\1811_08\1811_08\obj\Debug\1811_08.csproj.GenerateResource.Cache
