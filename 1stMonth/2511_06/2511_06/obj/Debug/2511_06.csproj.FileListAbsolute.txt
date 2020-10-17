@@ -1,0 +1,10 @@
+C:\Users\asus\Desktop\C# Kurs\2511_06\2511_06\bin\Debug\2511_06.exe
+C:\Users\asus\Desktop\C# Kurs\2511_06\2511_06\bin\Debug\2511_06.pdb
+C:\Users\asus\Desktop\C# Kurs\2511_06\2511_06\obj\Debug\2511_06.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\C# Kurs\2511_06\2511_06\obj\Debug\_2511_06.Form1.resources
+C:\Users\asus\Desktop\C# Kurs\2511_06\2511_06\obj\Debug\_2511_06.Properties.Resources.resources
+C:\Users\asus\Desktop\C# Kurs\2511_06\2511_06\obj\Debug\2511_06.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\C# Kurs\2511_06\2511_06\obj\Debug\2511_06.exe
+C:\Users\asus\Desktop\C# Kurs\2511_06\2511_06\obj\Debug\2511_06.pdb
+C:\Users\asus\Desktop\C# Kurs\1.Ay\2511_06\2511_06\obj\Debug\2511_06.exe
+C:\Users\asus\Desktop\C# Kurs\1.Ay\2511_06\2511_06\obj\Debug\2511_06.pdb

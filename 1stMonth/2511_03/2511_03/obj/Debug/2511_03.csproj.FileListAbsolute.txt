@@ -1,0 +1,7 @@
+C:\Users\asus\Desktop\C# Kurs\2511_03\2511_03\bin\Debug\2511_03.exe
+C:\Users\asus\Desktop\C# Kurs\2511_03\2511_03\bin\Debug\2511_03.pdb
+C:\Users\asus\Desktop\C# Kurs\2511_03\2511_03\obj\Debug\_2511_03.Form1.resources
+C:\Users\asus\Desktop\C# Kurs\2511_03\2511_03\obj\Debug\_2511_03.Properties.Resources.resources
+C:\Users\asus\Desktop\C# Kurs\2511_03\2511_03\obj\Debug\2511_03.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\C# Kurs\2511_03\2511_03\obj\Debug\2511_03.exe
+C:\Users\asus\Desktop\C# Kurs\2511_03\2511_03\obj\Debug\2511_03.pdb
