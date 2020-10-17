@@ -1,0 +1,16 @@
+C:\Users\asus\Desktop\C# Kurs\2511_odev Geliştirme\2511_odev Geliştirme\bin\Debug\2511_odev Geliştirme.exe
+C:\Users\asus\Desktop\C# Kurs\2511_odev Geliştirme\2511_odev Geliştirme\bin\Debug\2511_odev Geliştirme.pdb
+C:\Users\asus\Desktop\C# Kurs\2511_odev Geliştirme\2511_odev Geliştirme\obj\Debug\2511_odev Geliştirme.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\C# Kurs\2511_odev Geliştirme\2511_odev Geliştirme\obj\Debug\_2511_odev_Geliştirme.Form1.resources
+C:\Users\asus\Desktop\C# Kurs\2511_odev Geliştirme\2511_odev Geliştirme\obj\Debug\_2511_odev_Geliştirme.Properties.Resources.resources
+C:\Users\asus\Desktop\C# Kurs\2511_odev Geliştirme\2511_odev Geliştirme\obj\Debug\2511_odev Geliştirme.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\C# Kurs\2511_odev Geliştirme\2511_odev Geliştirme\obj\Debug\2511_odev Geliştirme.exe
+C:\Users\asus\Desktop\C# Kurs\2511_odev Geliştirme\2511_odev Geliştirme\obj\Debug\2511_odev Geliştirme.pdb
+C:\Users\ASUS\Desktop\ALEYNA\CODE\C#\C# Kurs\1.Ay\2511_odev Geliştirme\2511_odev Geliştirme\bin\Debug\2511_odev Geliştirme.exe
+C:\Users\ASUS\Desktop\ALEYNA\CODE\C#\C# Kurs\1.Ay\2511_odev Geliştirme\2511_odev Geliştirme\bin\Debug\2511_odev Geliştirme.pdb
+C:\Users\ASUS\Desktop\ALEYNA\CODE\C#\C# Kurs\1.Ay\2511_odev Geliştirme\2511_odev Geliştirme\obj\Debug\2511_odev Geliştirme.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\ALEYNA\CODE\C#\C# Kurs\1.Ay\2511_odev Geliştirme\2511_odev Geliştirme\obj\Debug\_2511_odev_Geliştirme.Form1.resources
+C:\Users\ASUS\Desktop\ALEYNA\CODE\C#\C# Kurs\1.Ay\2511_odev Geliştirme\2511_odev Geliştirme\obj\Debug\_2511_odev_Geliştirme.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ALEYNA\CODE\C#\C# Kurs\1.Ay\2511_odev Geliştirme\2511_odev Geliştirme\obj\Debug\2511_odev Geliştirme.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\ALEYNA\CODE\C#\C# Kurs\1.Ay\2511_odev Geliştirme\2511_odev Geliştirme\obj\Debug\2511_odev Geliştirme.exe
+C:\Users\ASUS\Desktop\ALEYNA\CODE\C#\C# Kurs\1.Ay\2511_odev Geliştirme\2511_odev Geliştirme\obj\Debug\2511_odev Geliştirme.pdb
