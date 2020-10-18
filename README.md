@@ -2,4 +2,4 @@
 
 EDUCATIONAL
 
-OOP with C#, WPF examples at Yazılım24. Also includes basic SQL queries.
+OOP with C#, WPF examples at Yazılım24 in 2019. Also includes basic SQL queries.
