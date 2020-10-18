@@ -1,0 +1,11 @@
+C:\Users\asus\Desktop\C# Kurs\3012_06\3012_06\obj\Debug\_3012_06.Form1.resources
+C:\Users\asus\Desktop\C# Kurs\3012_06\3012_06\obj\Debug\_3012_06.Form2.resources
+C:\Users\asus\Desktop\C# Kurs\3012_06\3012_06\obj\Debug\_3012_06.Properties.Resources.resources
+C:\Users\asus\Desktop\C# Kurs\3012_06\3012_06\obj\Debug\3012_06.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\C# Kurs\3012_06\3012_06\bin\Debug\3012_06.exe
+C:\Users\asus\Desktop\C# Kurs\3012_06\3012_06\bin\Debug\3012_06.pdb
+C:\Users\asus\Desktop\C# Kurs\3012_06\3012_06\obj\Debug\3012_06.exe
+C:\Users\asus\Desktop\C# Kurs\3012_06\3012_06\obj\Debug\3012_06.pdb
+C:\Users\asus\Desktop\C# Kurs\3012_06\3012_06\obj\Debug\3012_06.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\C# Kurs\2.Ay\3012_06\3012_06\obj\Debug\3012_06.exe
+C:\Users\asus\Desktop\C# Kurs\2.Ay\3012_06\3012_06\obj\Debug\3012_06.pdb
