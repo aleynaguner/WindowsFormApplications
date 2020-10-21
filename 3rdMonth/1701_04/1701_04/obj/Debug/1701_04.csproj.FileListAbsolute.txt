@@ -1,0 +1,8 @@
+C:\Users\asus\Desktop\C# Kurs\3.Ay\1701_04\1701_04\bin\Debug\1701_04.exe
+C:\Users\asus\Desktop\C# Kurs\3.Ay\1701_04\1701_04\bin\Debug\1701_04.pdb
+C:\Users\asus\Desktop\C# Kurs\3.Ay\1701_04\1701_04\obj\Debug\1701_04.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\C# Kurs\3.Ay\1701_04\1701_04\obj\Debug\_1701_04.Form1.resources
+C:\Users\asus\Desktop\C# Kurs\3.Ay\1701_04\1701_04\obj\Debug\_1701_04.Properties.Resources.resources
+C:\Users\asus\Desktop\C# Kurs\3.Ay\1701_04\1701_04\obj\Debug\1701_04.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\C# Kurs\3.Ay\1701_04\1701_04\obj\Debug\1701_04.exe
+C:\Users\asus\Desktop\C# Kurs\3.Ay\1701_04\1701_04\obj\Debug\1701_04.pdb

@@ -1,0 +1,17 @@
+C:\Users\asus\Desktop\C# Kurs\1701_01\1701_01\bin\Debug\1701_01.exe
+C:\Users\asus\Desktop\C# Kurs\1701_01\1701_01\bin\Debug\1701_01.pdb
+C:\Users\asus\Desktop\C# Kurs\1701_01\1701_01\obj\Debug\1701_01.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\C# Kurs\1701_01\1701_01\obj\Debug\_1701_01.Form1.resources
+C:\Users\asus\Desktop\C# Kurs\1701_01\1701_01\obj\Debug\_1701_01.Properties.Resources.resources
+C:\Users\asus\Desktop\C# Kurs\1701_01\1701_01\obj\Debug\1701_01.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\C# Kurs\1701_01\1701_01\obj\Debug\1701_01.exe
+C:\Users\asus\Desktop\C# Kurs\1701_01\1701_01\obj\Debug\1701_01.pdb
+D:\YEDEKLE\CODE\C#\C# Kurs\3.Ay\1701_01\1701_01\bin\Debug\1701_01.exe
+D:\YEDEKLE\CODE\C#\C# Kurs\3.Ay\1701_01\1701_01\bin\Debug\1701_01.pdb
+D:\YEDEKLE\CODE\C#\C# Kurs\3.Ay\1701_01\1701_01\obj\Debug\1701_01.csprojAssemblyReference.cache
+D:\YEDEKLE\CODE\C#\C# Kurs\3.Ay\1701_01\1701_01\obj\Debug\_1701_01.Form1.resources
+D:\YEDEKLE\CODE\C#\C# Kurs\3.Ay\1701_01\1701_01\obj\Debug\_1701_01.Properties.Resources.resources
+D:\YEDEKLE\CODE\C#\C# Kurs\3.Ay\1701_01\1701_01\obj\Debug\1701_01.csproj.GenerateResource.cache
+D:\YEDEKLE\CODE\C#\C# Kurs\3.Ay\1701_01\1701_01\obj\Debug\1701_01.csproj.CoreCompileInputs.cache
+D:\YEDEKLE\CODE\C#\C# Kurs\3.Ay\1701_01\1701_01\obj\Debug\1701_01.exe
+D:\YEDEKLE\CODE\C#\C# Kurs\3.Ay\1701_01\1701_01\obj\Debug\1701_01.pdb
