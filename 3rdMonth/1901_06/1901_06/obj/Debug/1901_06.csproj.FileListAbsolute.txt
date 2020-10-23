@@ -1,0 +1,17 @@
+C:\Users\asus\Desktop\C# Kurs\3.Ay\1901_06\1901_06\bin\Debug\1901_06.exe
+C:\Users\asus\Desktop\C# Kurs\3.Ay\1901_06\1901_06\bin\Debug\1901_06.pdb
+C:\Users\asus\Desktop\C# Kurs\3.Ay\1901_06\1901_06\obj\Debug\_1901_06.Form1.resources
+C:\Users\asus\Desktop\C# Kurs\3.Ay\1901_06\1901_06\obj\Debug\_1901_06.Properties.Resources.resources
+C:\Users\asus\Desktop\C# Kurs\3.Ay\1901_06\1901_06\obj\Debug\1901_06.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\C# Kurs\3.Ay\1901_06\1901_06\obj\Debug\1901_06.exe
+C:\Users\asus\Desktop\C# Kurs\3.Ay\1901_06\1901_06\obj\Debug\1901_06.pdb
+C:\Users\asus\Desktop\C# Kurs\3.Ay\1901_06\1901_06\obj\Debug\_1901_06.Form2.resources
+C:\Users\ASUS\Desktop\ALEYNA\CODE\C#\C# Kurs\3.Ay\1901_06\1901_06\bin\Debug\1901_06.exe
+C:\Users\ASUS\Desktop\ALEYNA\CODE\C#\C# Kurs\3.Ay\1901_06\1901_06\bin\Debug\1901_06.pdb
+C:\Users\ASUS\Desktop\ALEYNA\CODE\C#\C# Kurs\3.Ay\1901_06\1901_06\obj\Debug\1901_06.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\ALEYNA\CODE\C#\C# Kurs\3.Ay\1901_06\1901_06\obj\Debug\_1901_06.Form1.resources
+C:\Users\ASUS\Desktop\ALEYNA\CODE\C#\C# Kurs\3.Ay\1901_06\1901_06\obj\Debug\_1901_06.Form2.resources
+C:\Users\ASUS\Desktop\ALEYNA\CODE\C#\C# Kurs\3.Ay\1901_06\1901_06\obj\Debug\_1901_06.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ALEYNA\CODE\C#\C# Kurs\3.Ay\1901_06\1901_06\obj\Debug\1901_06.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\ALEYNA\CODE\C#\C# Kurs\3.Ay\1901_06\1901_06\obj\Debug\1901_06.exe
+C:\Users\ASUS\Desktop\ALEYNA\CODE\C#\C# Kurs\3.Ay\1901_06\1901_06\obj\Debug\1901_06.pdb
